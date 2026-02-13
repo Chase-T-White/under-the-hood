@@ -20,4 +20,3 @@ Most buyers focus on purchase price while long-term ownership costs remain hidde
 
 ## Status
 Early development — foundational build phase.
-
